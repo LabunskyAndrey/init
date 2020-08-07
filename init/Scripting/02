@@ -1,0 +1,3 @@
+echo "Enter username:"
+read user
+sudo userdel -r $user
