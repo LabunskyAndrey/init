@@ -1,0 +1,13 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    08                                                 :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: dmetallo <marvin@42.fr>                    +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2020/08/05 13:19:48 by dmetallo          #+#    #+#              #
+#    Updated: 2020/08/05 13:19:49 by dmetallo         ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+Use "nslookup slash16.org" or "host slash16.org" and choose any address. Than use "whois *Address*" to find the provider, it was "OrgName".
